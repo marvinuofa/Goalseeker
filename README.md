@@ -44,9 +44,6 @@ The project is intentionally simple and framework-free, making it ideal for lear
 
 ---
 
-
----
-
 ## How It Works
 
 1. The **Agent** exists in a discrete grid environment.
