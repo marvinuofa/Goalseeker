@@ -80,7 +80,7 @@ Open `index.html` in a modern browser.
 - npx http-server
 
 ## Open in your browser
-- http://localhost:8000
+- `http://localhost:8000`
 
 
 
