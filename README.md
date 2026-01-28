@@ -73,8 +73,8 @@ Open `index.html` in a modern browser.
 ### Option 2: Local server (recommended)
  
 ## Clone the repository 
-- git clone <repo-url>
-- cd <project-folder>
+- git clone `repo-url`
+- cd `project-folder`
 
 ## Start a local server
 - npx http-server
