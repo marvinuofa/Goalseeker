@@ -71,8 +71,16 @@ Open `index.html` in a modern browser.
 > If you see errors, use a local server.
 
 ### Option 2: Local server (recommended)
+- Clone the repository 
+git clone <repo-url>
+cd <project-folder>
 
-clone - ` ` 
+- Start a local server
+npx http-server
+
+- Open in your browser
+http://localhost:8000
+
 
 
 
